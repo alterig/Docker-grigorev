@@ -1,0 +1,24 @@
+
+
+# виртуальное окружение uv / python
+.venv/
+
+# кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# временные файлы
+*.log
+*.tmp
+
+# артефакты работы pandas/pyarrow
+*.parquet
+*.feather
+*.csv
+
+# IDE / редакторы
+.vscode/
+.idea/
+
